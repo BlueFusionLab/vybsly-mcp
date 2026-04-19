@@ -1,0 +1,48 @@
+{
+  "name": "vybsly-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for Vybsly — AI-first search API with 24M+ full-content pages, encyclopedia federation, strict-mode filters, and real-time data tools. Works with Claude Desktop, Cursor, Windsurf, and any MCP client.",
+  "main": "index.js",
+  "bin": {
+    "vybsly-mcp": "index.js"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "vybsly",
+    "search",
+    "ai",
+    "agent",
+    "rag",
+    "llm",
+    "claude",
+    "anthropic",
+    "langchain",
+    "llamaindex"
+  ],
+  "author": "Blue Fusion Labs <admin@vybsly.com>",
+  "license": "MIT",
+  "homepage": "https://vybsly.ai",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ixlegendix/vybsly-mcp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ixlegendix/vybsly-mcp/issues"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.29.0"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ]
+}
