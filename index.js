@@ -30,7 +30,7 @@ async function vybslyCall(path, params = {}) {
 const TOOLS = [
   {
     name: 'vybsly_search',
-    description: 'Full-content web search across 24M+ pages. Returns up to 30K chars per result — perfect for RAG and agent context. Supports strict-mode filters (research/news/educational) and federation with encyclopedia.',
+    description: 'Full-content web search across 29M+ pages. Returns up to 30K chars per result — perfect for RAG and agent context. Supports strict-mode filters (research/news/educational) and federation with encyclopedia.',
     inputSchema: {
       type: 'object',
       properties: {

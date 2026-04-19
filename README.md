@@ -1,6 +1,6 @@
 # Vybsly MCP
 
-MCP (Model Context Protocol) server for [Vybsly](https://vybsly.ai) — the AI-first search API with **26M+ full-content pages**, encyclopedia federation, strict-mode filters, and real-time data tools.
+MCP (Model Context Protocol) server for [Vybsly](https://vybsly.ai) — the AI-first search API with **29M+ full-content pages**, encyclopedia federation, strict-mode filters, and real-time data tools.
 
 Works with **Claude Desktop, Cursor, Windsurf**, or any MCP-compatible client.
 
@@ -8,7 +8,7 @@ Works with **Claude Desktop, Cursor, Windsurf**, or any MCP-compatible client.
 
 Other search APIs return snippets. Vybsly returns **up to 30,000 characters of clean, extracted content per result** — the full page, ready for RAG and agent context. No scraping, no follow-up fetches.
 
-- **26M+ web pages** indexed with full content
+- **29M+ web pages** indexed with full content
 - **25M+ encyclopedia articles** (federated search via `/knowledge`)
 - **Strict mode**: enforce research/news/educational domains with allowlists
 - **Real-time data**: stocks, crypto, weather, news, sports odds, maps
