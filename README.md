@@ -117,7 +117,7 @@ Upgrade anytime at [vybsly.ai/developers.html](https://vybsly.ai/developers.html
 - Website: [vybsly.ai](https://vybsly.ai)
 - API docs: [vybsly.ai/docs.html](https://vybsly.ai/docs.html)
 - Developer portal: [vybsly.ai/developers.html](https://vybsly.ai/developers.html)
-- GitHub: [github.com/ixlegendix/vybsly-mcp](https://github.com/ixlegendix/vybsly-mcp)
+- GitHub: [github.com/BlueFusionLab/vybsly-mcp](https://github.com/BlueFusionLab/vybsly-mcp)
 
 ## License
 
