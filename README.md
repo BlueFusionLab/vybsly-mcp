@@ -1,6 +1,12 @@
-# Vybsly MCP
+<p align="center">
+  <img src="assets/logo.png" alt="Vybsly" width="160" height="160" />
+</p>
 
-MCP (Model Context Protocol) server for [Vybsly](https://vybsly.ai) — the AI-first search API with **29M+ full-content pages**, encyclopedia federation, strict-mode filters, and real-time data tools.
+<h1 align="center">Vybsly MCP</h1>
+
+<p align="center">
+  MCP (Model Context Protocol) server for <a href="https://vybsly.ai">Vybsly</a> — the AI-first search API with <strong>29M+ full-content pages</strong>, encyclopedia federation, strict-mode filters, and real-time data tools.
+</p>
 
 Works with **Claude Desktop, Cursor, Windsurf**, or any MCP-compatible client.
 
