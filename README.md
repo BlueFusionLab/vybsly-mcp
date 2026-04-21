@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Vybsly" width="160" height="160" />
+  <img src="https://raw.githubusercontent.com/BlueFusionLab/vybsly-mcp/main/assets/logo.png" alt="Vybsly" width="160" height="160" />
 </p>
 
 <h1 align="center">Vybsly MCP</h1>
