@@ -1,6 +1,6 @@
 {
   "name": "vybsly-mcp",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "MCP server for Vybsly — AI-first search API with 29M+ full-content pages, encyclopedia federation, strict-mode filters, and real-time data tools. Works with Claude Desktop, Cursor, Windsurf, and any MCP client.",
   "main": "index.js",
   "bin": {
